@@ -16,3 +16,8 @@ This library facilitates checking signatures over CCIP read responses.
 
 ### [OffchainResolver.sol](contracts/OffchainResolver.sol)
 This contract implements the offchain resolution system. Set this contract as the resolver for a name, and that name and all its subdomains that are not present in the ENS registry will be resolved via the provided gateway by supported clients.
+
+# Offchain Resolver (bico.eth) [gETH]
+
+0x1b4c2C130E3e96e9e39416Aaf63F1428A2e2B0c2
+
